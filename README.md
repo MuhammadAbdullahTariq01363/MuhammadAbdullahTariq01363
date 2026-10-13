@@ -48,5 +48,4 @@ Data Science undergraduate at **The Islamia University of Bahawalpur (IUB)**, Pa
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAbdullahTariq01363&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullahTariq01363&layout=compact)
