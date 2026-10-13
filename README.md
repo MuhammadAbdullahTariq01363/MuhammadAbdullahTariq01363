@@ -46,6 +46,3 @@ Data Science undergraduate at **The Islamia University of Bahawalpur (IUB)**, Pa
 - 📧 [mats37772@gmail.com](mailto:mats37772@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-tariq-659b6940b)
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAbdullahTariq01363&layout=compact)
